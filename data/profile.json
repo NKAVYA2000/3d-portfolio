@@ -1,0 +1,172 @@
+{
+  "name": {
+    "first": "Kavya",
+    "last": "Narayanappa",
+    "full": "Kavya Narayanappa"
+  },
+  "email": "nkavya000@gmail.com",
+  "tagline": "I build AI that's smarter than me — and somehow, that's my job.",
+  "description": "Senior AI Software Engineer in Dublin. Full-stack .NET, Angular, Azure, and AI for regulated industries.",
+  "roles": {
+    "short": "Senior AI Software Engineer",
+    "detailed": "AI Engineer · Full-Stack Developer · .NET · Angular · Azure"
+  },
+  "location": {
+    "based": "Dublin, Ireland",
+    "availability": "Worldwide"
+  },
+  "available": true,
+  "bio": "I'm a Senior AI Software Engineer, and I build full-stack, AI-powered software for industries where mistakes aren't an option. My path runs from Eurofins, the world's largest lab-testing network, to cloud delivery, and now to governance, risk and compliance at BoardX. Along the way I won a Best Paper Award for healthcare ML research, built EmotiBuddy, a real-time empathetic AI companion, and earned my MSc in Software Engineering at Maynooth with First Class Honours while working full-time. I don't really do things halfway.",
+  "stats": [
+    { "value": "5+",  "label": "Years Experience" },
+    { "value": "10+", "label": "Projects Shipped" },
+    { "value": "4",   "label": "Companies" }
+  ],
+  "skills": [
+    "AI Engineer",
+    "Full-Stack Developer",
+    ".NET / C#",
+    "Angular",
+    "Azure",
+    "NLP & LLMs",
+    "Machine Learning",
+    "React",
+    "Cloud-Native",
+    "Event Sourcing",
+    "Python",
+    "Problem Solver"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Software Developer Intern",
+      "company": "TDPVista",
+      "companyShort": "TDPVISTA",
+      "type": "Internship",
+      "location": "Remote",
+      "period": "Apr 2021",
+      "periodEnd": "May 2021",
+      "bullets": [
+        "Built an NLP-based command-line app in Java to process voice inputs — an early step into speech processing and AI.",
+        "Gained first hands-on exposure to Python and NLP through a government internships initiative."
+      ],
+      "desc": "An early internship under a government internships initiative, focused on web development and the first steps into NLP and speech processing.",
+      "tech": ["Java", "Python", "NLP", "Speech Processing"]
+    },
+    {
+      "id": 2,
+      "role": "Software Engineer — Full Stack",
+      "company": "Eurofins IT Solutions",
+      "companyShort": "EUROFINS",
+      "type": "Full-time",
+      "location": "Bengaluru, India",
+      "period": "Aug 2022",
+      "periodEnd": "Aug 2024",
+      "bullets": [
+        "Built a reusable UI component library (Angular, PrimeNG), boosting front-end productivity by 60%.",
+        "Implemented real-time collaborative editing with SignalR, driving 25% growth in client adoption across Europe.",
+        "Migrated legacy systems from SQL to Cosmos DB using Event Sourcing — cutting project costs by 35% and improving data integrity.",
+        "Automated lab device integrations (chromatography, balances, pH meters), reducing manual errors and increasing data accuracy.",
+        "Maintained 90%+ test coverage, established CI/CD pipelines, and championed Agile practices across teams."
+      ],
+      "desc": "Enterprise full-stack engineering for Eurofins' global laboratory-testing network — .NET Core/C# services and Angular frontends, backed by MS SQL and Azure Cosmos DB.",
+      "tech": ["C#", ".NET Core", "Angular", "PrimeNG", "SignalR", "Cosmos DB", "Event Sourcing", "Azure"]
+    },
+    {
+      "id": 3,
+      "role": "Software Test Automation Engineer",
+      "company": "Prestin Technology",
+      "companyShort": "PRESTIN",
+      "type": "Part-time",
+      "location": "Dublin, Ireland",
+      "period": "Oct 2024",
+      "periodEnd": "Mar 2025",
+      "bullets": [
+        "Engineered BDD test automation with Cucumber, Selenium WebDriver and Gherkin.",
+        "Designed and executed Java Spring test cases, safeguarding backend quality.",
+        "Automated web and mobile testing and integrated suites into CI/CD pipelines with scheduled regression runs, within Agile Scrum."
+      ],
+      "desc": "Quality-first test automation for client projects, delivered part-time while completing the MSc at Maynooth.",
+      "tech": ["Selenium", "Cucumber", "Gherkin", "Java Spring", "CI/CD"]
+    },
+    {
+      "id": 4,
+      "role": "Assistant Software Engineer",
+      "company": "Prestin Technology",
+      "companyShort": "PRESTIN",
+      "type": "Full-time",
+      "location": "Dublin, Ireland",
+      "period": "Apr 2025",
+      "periodEnd": "Jan 2026",
+      "bullets": [
+        "Designed and deployed cloud-native services on Azure, improving scalability and system reliability.",
+        "Built data pipelines for large datasets, enabling better monitoring, reporting and decision-making.",
+        "Applied machine learning models for anomaly detection, surfacing hidden issues and improving system performance.",
+        "Contributed to architecture and design discussions, ensuring solutions met security and compliance standards."
+      ],
+      "desc": "Cloud-native delivery and applied ML for client projects on Azure within an Agile consultancy team.",
+      "tech": ["Azure", "Data Pipelines", "ML Anomaly Detection", "Cloud-Native"]
+    },
+    {
+      "id": 5,
+      "role": "Senior AI Software Engineer",
+      "company": "BoardX.io",
+      "companyShort": "BOARDX",
+      "type": "Full-time",
+      "location": "Dublin, Ireland",
+      "period": "Jan 2026",
+      "periodEnd": "Present",
+      "bullets": [
+        "Designing and shipping AI-powered features for a governance, risk & compliance platform used by boards and leadership teams.",
+        "Owning features end-to-end in an early-stage startup — from data layer and AI services to frontend delivery.",
+        "Applying NLP and LLM techniques to compliance documents, risk insight and governance workflows."
+      ],
+      "desc": "Building AI capabilities inside a regulated GRC SaaS platform — end-to-end ownership from model integration to UI in a fast-moving startup.",
+      "tech": ["AI / LLM", "NLP", ".NET", "Azure", "SaaS"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "EmotiBuddy",
+      "subtitle": "Real-Time Empathetic AI Companion",
+      "type": "AI · MSc Research",
+      "link": "https://github.com/NKAVYA2000/Projects_Kavya",
+      "image": "/assets/project-placeholder-1.png",
+      "tech": ["DeepFace", "Whisper", "DistilBERT", "GPT-2", "FastAPI", "React"],
+      "desc": "A full-stack web app that sees, hears and responds with empathy: DeepFace for emotion detection, Whisper for speech-to-text, DistilBERT for sentiment, and GPT-2 for empathetic responses — all processed locally for privacy. Modular Flask/FastAPI backend, React frontend, designed around HCI principles."
+    },
+    {
+      "id": 2,
+      "title": "Command–Speech Recognition",
+      "subtitle": "Voice-Driven Command System",
+      "type": "Speech · NLP",
+      "link": "https://github.com/NKAVYA2000/Projects_Kavya",
+      "image": "/assets/project-placeholder-2.png",
+      "tech": ["Java", "Sphinx4", "OpenNLP"],
+      "desc": "A user-friendly command recognition system built with Java, Sphinx4 and OpenNLP — it understands live speech and suggests the right command with its syntax. Voice interfaces, years before they were everywhere."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Potent Analysis of Hypothyroidism — A Detailed Review",
+      "platform": "ICASET · Best Paper",
+      "year": "2021",
+      "link": "https://github.com/NKAVYA2000/Projects_Kavya",
+      "desc": "Best Paper Award–winning research predicting hypothyroidism using association rule mining, presented at the International Conference on Advances in Science, Engineering and Technology."
+    },
+    {
+      "id": 2,
+      "title": "Multitude Association Classification Model for Healthcare",
+      "platform": "BE Research · New Horizon",
+      "year": "2022",
+      "link": "https://github.com/NKAVYA2000/Projects_Kavya",
+      "desc": "Published research integrating association rule mining with machine learning to surface meaningful patterns and build predictive models for the healthcare domain."
+    }
+  ],
+  "socials": [
+    { "label": "GitHub",   "href": "https://github.com/NKAVYA2000/Projects_Kavya" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/kavya-n-7a7604233/" }
+  ]
+}
